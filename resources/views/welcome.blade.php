@@ -13,7 +13,9 @@
 
 @include('menu')
 
-
+<div class="text-2xl text-gray-900 text-center py-20 font-bold">
+Bienvenidos Sistema Mantenedor de Finanzas
+</div>
 
 
 
